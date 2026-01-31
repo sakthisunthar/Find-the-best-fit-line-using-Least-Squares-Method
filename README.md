@@ -1,4 +1,6 @@
 # Implementation of Univariate Linear Regression
+## DATE:
+31.1.26
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
